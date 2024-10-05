@@ -18,3 +18,16 @@ ZeroEngine is an application framework based on [Walnut](https://github.com/TheC
 
 ### Additional
 - ZeroEngine uses the [Roboto](https://fonts.google.com/specimen/Roboto) font ([Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0))
+
+## Setup Instructions
+
+To set up the project:
+
+1. Navigate to the `scripts` folder.
+2. Run `Setup.bat`. This will build the project using Premake.
+3. Once the setup is complete, you should see a `ZeroEngineApp.sln` file in the project directory.
+4. Open `ZeroEngineApp.sln` in Visual Studio, and you're ready to go!
+
+---
+
+Enjoy building with this template!
