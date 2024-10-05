@@ -4,7 +4,7 @@ ZeroEngine is an application framework based on [Walnut](https://github.com/TheC
 
 ![ZeroEngineExample](https://cdn.discordapp.com/attachments/882066098617475123/1292045211320451092/image.png?ex=67024e5f&is=6700fcdf&hm=5dee0de8756dd4d4a92e0bc797e6298d5d025198a4f54e3a8184bd2acbe4c517&)
 
-<center>Forest Launcher - an application made with Walnut</center>
+<center>example template</center>
 
 ## Requirements
 - [Visual Studio 2022](https://visualstudio.com) (not strictly required, however included setup scripts only support this)
