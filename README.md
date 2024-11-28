@@ -2,7 +2,7 @@
 
 ZeroEngine is an application framework based on [Walnut](https://github.com/TheCherno/Walnut), designed to make application development easier using Vulkan and ImGui.
 
-![ZeroEngineExample](https://cdn.discordapp.com/attachments/882066098617475123/1292045211320451092/image.png?ex=6739049f&is=6737b31f&hm=2b72feb2fd27386bd9f3ae6adb2e49d5e4df469c2b1a68390b7197d7e9e3e147&)
+![ZeroEngineExample](https://cdn.discordapp.com/attachments/882066098617475123/1292045211320451092/image.png?ex=6748d69f&is=6747851f&hm=5658f62350dc632222e53164071ba47b48e53322a5e0ae23f198619e45c7e950&)
 
 <center>example template</center>
 
